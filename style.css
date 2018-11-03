@@ -1,0 +1,190 @@
+.box5{
+    float: left;
+    padding: 20px;
+    clear: left;
+
+}
+.box4{
+    float: left;
+    padding: 20px;
+    
+
+}
+.box3{
+    float: left;
+    padding: 20px;
+    clear: left;
+
+}
+.box2{
+    float: left;
+    padding: 20px;
+    
+
+}
+.box1{
+    float: left;
+    padding: 20px;
+
+}
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.container {
+    position: relative;
+}
+
+.submit{
+    background: teal;
+    color: white;
+    border: 5px solid teal;
+    width: 75px;
+    
+}
+
+input[name="email"] {
+    width: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    height: 20px;
+}
+input[name="fullname"] {
+    width: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    height: 20px;
+    
+}
+input[name="message"] { 
+    height: 200px;
+    width: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+html{
+    margin: 0;
+
+}
+h4{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.footer{
+    position: absolute;
+    top: 95%;
+    
+    background: #666666;
+    width: 100%;
+    border-top: 5px solid teal;
+    right: 0px;
+    
+    
+}
+.img{
+    width: 200px;
+    border-right: 5px solid white;
+}
+.body{
+    border: 15px solid white;
+    background: white;
+    position: fixed;
+    width: 960px;
+    left: 20%;
+    top: 15%;
+    
+}
+.aboutme{
+    background: white;
+    color: lightseagreen;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid lightgrey;
+    display: block;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
+}
+p{
+    background: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+    color: #777777;
+}
+body{
+    
+    border: 20px solid white;
+    background: lightgrey;
+    
+    
+    
+    
+}
+.header{
+    background: 10px white;
+    border-bottom: 2px solid lightgrey;
+    border-right: 100px solid white;
+    border-left: 100px solid white;
+    margin: 0px;
+   
+    
+    
+    
+    
+}
+
+.headerRight{
+    position: relative;
+    float: right;
+    right: 230px;
+    
+
+}
+
+.name{
+    padding-top: 20px;
+    border: 20px solid teal;
+    background: teal;
+    color: white;
+    font-size: 30px;
+    font-family: 'Georgia', Times, Times New Roman, serif;;
+    position: relative;
+    bottom: 20px;
+    left: 205px;
+    box-shadow: 5px 5px #666666;
+    
+
+
+
+}
+/* Header Right */
+.about{
+    color: grey;
+}
+
+.portfolio{
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: grey;
+}
+
+.contact{
+    color: grey;
+
+}
+/* Header Right*/
+
+.img{
+    float: left;
+}
